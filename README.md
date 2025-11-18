@@ -1,4 +1,4 @@
-# Projectes de DAW
+# Projectes de DAW, orientats a **Experiències interactives**
 Recull dels projectes transversals i finals de DAW de l'Institut Pedralbes
 
 ## 2025 - 2026
